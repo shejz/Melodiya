@@ -6,7 +6,7 @@ A music web application that generates melodies using AI, based on the musical i
   - Adding a form and capture the inputs using js.
 2. Create a staff using EasyScore from Vexflow
   - EasyScore is the fastest way to get started with VexFlow. You can use it to generate all the basic VexFlow elements necessary for a sequence of musical notation and extend    them with the standard VexFlow API.
-  - The EasyScore language supports notes, accidental beams, dot tuplets and other common musical notation elements. cdnjs(https://cdnjs.com/)
+  - The EasyScore language supports notes, accidental beams, dot tuplets and other common musical notation elements. [cdnjs](https://cdnjs.com/)
   - Add a staff using Vexflow where users can see, hear and edit the seed notes of the melody
 3. Create a parser that takes the notes from the form and convert them into a readable format that Vexflow can understand
 4. Add the note from the parser to the staff created in Vexflow
