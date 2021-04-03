@@ -1,10 +1,10 @@
 # Melodiya
 A music web application that generates melodies using AI, based on the musical ideas of the user. For this, I'm going to use **VexFlow** to create the staff and **Tone.js** so users can hear the seed notes.
 
-- [Html codes]((https://www.htmlsymbols.xyz/musical-symbols)) for the notes and rests symbols
+- [Html codes](https://www.htmlsymbols.xyz/musical-symbols) for the notes and rests symbols
 - VexFlow documentation for using [EasyScore](https://github.com/0xfe/vexflow/wiki/Using-EasyScore)
-- [Tone.js]((https://tonejs.github.io/) documentation
-- [Magenta]((https://github.com/magenta/magenta) documentation
+- [Tone.js](https://tonejs.github.io/) documentation
+- [Magenta](https://github.com/magenta/magenta) documentation
 - [Html-midi-player](https://github.com/cifkao/html-midi-player)
 
 
